@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dragonball</string>
+    <string name="image">image</string>
+
+    <string name="title1"></string>
+    <string name="title2"></string>
+    <string name="title3"></string>
+    <string name="title4"></string>
+    <string name="title5"></string>
+
+</resources>
